@@ -28,7 +28,7 @@ Seluruh data film disimpan secara **lokal di dalam file proyek**, tanpa koneksi 
 
 1. **Clone repositori ini**
    ```bash
-   git clone https://github.com/username/nama-repo.git
+   git clone https://github.com/nafiurohman/website-daftar-film-sederhana-menggunakan-react-routers-dan-cdn-tailwind.git
 Masuk ke folder proyek
 
 bash:
